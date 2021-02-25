@@ -9,6 +9,12 @@ A quick methodology on testing/hacking SAP Applications for n00bz and bug bounty
 
 - [shipcod3/mySapAdventures](https://github.com/shipcod3/mySapAdventures)
 
+### SAP NetWeaver ABAP security configuration part 2: Default passwords for access to the application
+<code>
+  Default passwords for access to the application
+</code>
+- [blogs/sap-netweaver-abap-security-configuration-part-2-default](https://www.cisoplatform.com/profiles/blogs/sap-netweaver-abap-security-configuration-part-2-default)
+
 ### Metasploit generic
 <code>
   Penetration test item command execution list using metasploit
